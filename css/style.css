@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   .container{
+    text-align: center;
+    padding-top: 100px;
+   }
+   h3{
+        padding: 20px 0;
+        color:red;
+        text-transform: capitalize;
+   }
+   #btn{
+    padding: 2px 4px;
+    border-radius: 30px;
+    border: 2px solid black;
+   }
+   #icon{
+    font-size: 28px;
+    padding-right:30px ;
+    transition: 0.7s ease;
+   }
+   #display{
+    display: inline;
+    padding: 10px 0;
+    padding-left: 10px;
+    font-size: 25px;
+    text-transform: uppercase;
+   }
